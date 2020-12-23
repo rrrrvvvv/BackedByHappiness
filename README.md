@@ -1,4 +1,4 @@
-# Test-BBH
+# BBH
 
 This is a first attempt at a front-end for a hypothetical Benefit Rewards network, using tokens on Bitcoin (BSV). Simple HTML, CSS and Javascript.
 
